@@ -39,6 +39,8 @@ do{
           case '3':
                alert("Saindo...")
                break
+          default:
+               alert("Opção inválida")
      }
 }while(option !== "3")
 
