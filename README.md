@@ -5,4 +5,4 @@ e os aprendizados obtidos com o estudo de JavaCript (Lógica de Programação) d
 
 <hr>
 
-Status do módulo: Em Curso ⏳
+Status do módulo: Concluído ✅
